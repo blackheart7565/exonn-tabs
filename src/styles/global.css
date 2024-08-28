@@ -1,0 +1,14 @@
+
+.customScrollExonTabs::-webkit-scrollbar {
+	width: 5px;
+	height: 5px;
+}
+
+.customScrollExonTabs::-webkit-scrollbar-track {
+	background-color: #FFF;
+}
+
+.customScrollExonTabs::-webkit-scrollbar-thumb {
+	border-radius: 50px;
+	background: #cbced1;
+}
